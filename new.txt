@@ -1,7 +1,7 @@
 Line 1 from master
 Line 2 from second
 Line 3 from master
-Line 4
+Line 4 from second
 Line 5
-Line 6
+Line 6 from second
 Line 7
