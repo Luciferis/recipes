@@ -1,6 +1,6 @@
 Line 1
 Line 2 from first
-Line 3
+Line 3 from first
 Line 4 from first
 Line 5
 Line 6
