@@ -1,6 +1,6 @@
 Ssdvasdh omething something
 Line 2 in local
-Line 3 in remote
+Line 3 in branch second
 Line 4 in new-branch
 Line 5 in github
 Line 6 in new-branch
@@ -8,3 +8,4 @@ Line 7 in github
 Line 8 in github to make conflict in pull request
 Line 9 in remote
 Line 10 in local
+Line 11 in branch second
